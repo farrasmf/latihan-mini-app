@@ -1,0 +1,31 @@
+{
+  "name": "latihan-mini-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farrasmf/latihan-mini-app.git"
+  },
+  "keywords": [
+    "mini-app"
+  ],
+  "author": "Farras Muhammad Furqon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farrasmf/latihan-mini-app/issues"
+  },
+  "homepage": "https://github.com/farrasmf/latihan-mini-app#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
